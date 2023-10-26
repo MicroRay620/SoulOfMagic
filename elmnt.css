@@ -1,1 +1,9 @@
+h1.title {
+  /*Font Changes*/
+  font-size: 20px;
+  font-weight: bold;
 
+  /*Text Changes*/
+  color: #64b4f5;
+  text-shadow: 2px 2px 4px rgba(100, 180, 245, 0.7);
+}
